@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevks844&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevks844" /> </p>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" width="400" align="right">
 - 🔭 I’m currently working on [Higher Engineering](higherengineering.me)
 
 - 🌱 I’m currently learning **React Native**
@@ -11,7 +12,7 @@
 - 💬 Ask me about **C,C++,HTML,CSS,JS,BOOTSRAP**
 
 - 📫 How to reach me **Rajeevks844@gmail.com**
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="gif" width="400" align="right">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeevks844" alt="rajeevks844" /></a> </p>
 
 <p align="left"  > <a href="https://twitter.com/rajeevkrsingh32" target="blank"><img src="https://img.shields.io/twitter/follow/rajeevksingh32?logo=twitter&style=for-the-badge" alt="rajeevkrsingh32" /></a> </p>
